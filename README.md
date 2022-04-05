@@ -1,1 +1,1 @@
-Ejemplo de uso de Git.
+Ejemplo de uso de Git y sus respectivos comandos
