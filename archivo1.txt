@@ -1,1 +1,1 @@
-en este curso utilizaremos git
+en este curso utilizaremos git y veremos los comandos con los que trabajamos
