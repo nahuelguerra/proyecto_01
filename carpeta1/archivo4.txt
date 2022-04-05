@@ -1,0 +1,2 @@
+GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos
+utilizando el sistema de control de versiones Git.

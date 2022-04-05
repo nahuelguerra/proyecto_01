@@ -1,0 +1,3 @@
+VSCode es una IDE para el desarrollo de software. Mediante esta IDE tambien se pueden
+programar varias placas de desarrollo, y entre ellas Arduino y ESP32. Estas placas se utilizaran
+en esta materia.
